@@ -57,7 +57,7 @@ A modern, feature-rich music player for Android that provides a seamless music l
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MusicPlayerNew.git
+git clone https://github.com/kevopen/Android-Music-Player.git
 ```
 
 2. Open the project in Android Studio
